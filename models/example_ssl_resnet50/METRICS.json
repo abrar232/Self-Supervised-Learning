@@ -1,0 +1,11 @@
+{
+  "pretraining": {
+    "loss_final": null,
+    "notes": "Notebook kept output-free; values to be filled after training."
+  },
+  "linear_probe": {
+    "val_acc": null,
+    "val_f1": null,
+    "notes": "Placeholder metrics to fill after linear evaluation."
+  }
+}
