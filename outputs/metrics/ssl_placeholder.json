@@ -1,0 +1,10 @@
+{
+  "stage": "self-supervised pretraining (SimCLR-style)",
+  "encoder": "ResNet50",
+  "image_size": 224,
+  "batch_size": 64,
+  "temperature": 0.1,
+  "epochs": null,
+  "loss_final": null,
+  "notes": "Notebook kept output-free; figures are illustrative placeholders."
+}
