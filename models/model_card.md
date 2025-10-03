@@ -1,6 +1,6 @@
-# Model Card — SSL ResNet50 (Example)
+# Model Card — SSL 
 
-**Date:** 2025-10-03  
+**Date:** 2024-05-02  
 **Task:** Self-supervised representation learning (SimCLR-style), optional linear probe  
 **Backbone:** ResNet50 (Keras Applications, pooling='avg')  
 **Input size:** 224×224 RGB  
