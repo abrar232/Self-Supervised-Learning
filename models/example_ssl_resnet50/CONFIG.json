@@ -1,0 +1,12 @@
+{
+  "task": "self-supervised (SimCLR-style)",
+  "encoder": "ResNet50",
+  "image_size": 224,
+  "batch_size": 64,
+  "optimizer": "Adam",
+  "learning_rate": 0.0003,
+  "temperature": 0.1,
+  "epochs": 100,
+  "seed": 42,
+  "augmentations": "RandomResizedCrop, Flip, Rotation, Contrast/Zoom"
+}
